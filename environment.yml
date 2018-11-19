@@ -299,7 +299,6 @@ dependencies:
   - pip:
     - bumpversion==0.5.3
     - docopt==0.6.2
-    - fastai==1.0.5.dev0
     - jupyter-contrib-core==0.3.3
     - jupyter-contrib-nbextensions==0.5.0
     - jupyter-highlight-selected-word==0.2.0
@@ -307,8 +306,6 @@ dependencies:
     - jupyter-nbextensions-configurator==0.4.0
     - msgpack==0.5.6
     - param==1.7.0
-    - pipreqs==0.4.9
-    - pt-core-news-sm==2.0.0
     - python-slugify==1.2.6
     - pyviz-comms==0.6.0
     - tables==3.4.4
