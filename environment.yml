@@ -6,19 +6,18 @@ channels:
   - defaults
 dependencies:
   - bzip2=1.0.6
-  - ca-certificates=2018.10.15
-  - certifi=2018.10.15
   - ffmpeg=4.1
   - gmp=6.1.2
   - gnutls=3.5.19
   - libiconv=1.15
   - nettle=3.3
   - openh264=1.8.0
-  - openssl=1.0.2p
   - x264=1!152.20180717
   - asn1crypto=0.24.0
   - blas=1.0
   - bottleneck=1.2.1
+  - ca-certificates=2018.03.07
+  - certifi=2018.10.15
   - cffi=1.11.5
   - chardet=3.0.4
   - cryptography=2.3.1
@@ -57,6 +56,7 @@ dependencies:
   - numpy=1.15.4
   - numpy-base=1.15.4
   - olefile=0.46
+  - openssl=1.0.2p
   - pandas=0.23.4
   - pcre=8.42
   - pillow=5.3.0
@@ -76,6 +76,7 @@ dependencies:
   - readline=7.0
   - regex=2018.08.29
   - requests=2.20.1
+  - scikit-learn=0.20.0
   - scipy=1.1.0
   - setuptools=40.6.2
   - sip=4.19.8
@@ -96,7 +97,7 @@ dependencies:
   - yaml=0.1.7
   - zlib=1.2.11
   - dataclasses=0.6
-  - fastai=1.0.27
+  - fastai=1.0.28
   - fastprogress=0.1.15
   - torchvision-nightly=0.2.1
   - cuda92=1.0
